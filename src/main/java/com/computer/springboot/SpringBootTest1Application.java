@@ -13,6 +13,7 @@ public class SpringBootTest1Application {
         System.out.println("hot 第一次修改");
         System.out.println("hot 第二次修改");
         System.out.println("hot 第三次修改..............");
+        System.out.println("master 提交");
         
     }
 

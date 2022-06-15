@@ -10,8 +10,8 @@ public class SpringBootTest1Application {
         SpringApplication.run(SpringBootTest1Application.class, args);
         System.out.println("22222222");
         System.out.println("33333333");
-        System.out.println("hot 第一次修改");
-        System.out.println("hot 第二次修改");
+        System.out.println("hot 第一次修改..............");
+        System.out.println("hot 第二次修改..............");
         System.out.println("hot 第三次修改..............");
         System.out.println("master 提交");
         // github 修改

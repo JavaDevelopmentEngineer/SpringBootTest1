@@ -8,6 +8,7 @@ public class SpringBootTest1Application {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringBootTest1Application.class, args);
+        System.out.println("hot 第一次修改");
     }
 
 }

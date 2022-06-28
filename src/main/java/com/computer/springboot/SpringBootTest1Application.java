@@ -15,6 +15,7 @@ public class SpringBootTest1Application {
         System.out.println("hot 第三次修改..............");
         System.out.println("master 提交");
         // github 修改
+        // 测试git是否可用
         
     }
 
